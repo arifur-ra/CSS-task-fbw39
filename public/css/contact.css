@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* Navbar is starting for styling */
+header {
+    width: 100%;
+}
+
+.navbar {
+    width: 100%;
+    background-color: black;
+    height: 70px;
+}
+
+.container h1 {
+    float: left;
+    margin-left: 10%;
+    padding: 20px;
+}
+
+.container h1 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.container ul {
+    float: right;
+    margin-right: 10%;
+    display: inline-flex;
+    padding: 25px;
+
+}
+
+.container ul li {
+    list-style: none;
+
+}
+
+.container ul li a {
+    padding: 25px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.container ul li a:hover {
+    background-color: gray;
+    /* border-top-width: 20px;
+    border-bottom-width: 20px; */
+    color: orange;
+    padding: 26px;
+
+}
+
+/* Starting contact from styling */
+#contact-form {
+    width: 100%;
+}
+
+#contact-form .container {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+#contact-form .container h1 {
+    width: 100%;
+    font-size: 40px;
+    margin-left: -2%;
+
+}
+
+#contact-form .container p {
+    padding: 10px 0px;
+
+}
+
+#contact-form .container h1 span {
+    color: orange;
+}
+
+.form-group input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+
+}
+
+button.btn {
+    background-color: black;
+    padding: 10px 15px;
+    margin: 10px 0;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+
+#contact-info {
+    width: 100%;
+
+}
+
+#contact-info .box {
+    float: left;
+    width: 33.333%;
+    padding: 3%;
+    /* background-color: rgb(70, 70, 4); */
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+
+
+}
+
+
+
+
+/* starting footer styling */
+.clr {
+    clear: both;
+}
+
+#main-footer {
+    width: 100%;
+    background-color: rgb(66, 63, 61);
+    height: 80px;
+    margin-top: -16px;
+}
+
+#main-footer p {
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+
+
+}
