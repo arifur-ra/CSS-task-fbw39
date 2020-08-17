@@ -1,6 +1,6 @@
 const express = require('express')
 const server = express();
-const path = __dirname.slice(0,-3) + "public\\html"
+const path = __dirname.slice(0,-3) + "public"
 const PORT = 5000;
 
 server.use(express.static(path))
