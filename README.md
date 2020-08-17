@@ -10,11 +10,11 @@ The context for this task is an hotel site. Here the users can see a home page t
 Now here will be the images for each page for you to follow and try to replicate.
 
 ## index.html
-![Index 1](/img/readme/index1.png)
-![Index 2](/img/readme/index2.png)
+![Index 1](public/img/readme/index1.png)
+![Index 2](public/img/readme/index2.png)
 
 ## about.html
-![About](/img/readme/about.png)
+![About](public/img/readme/about.png)
 
 ## contact.html
-![Contact](/img/readme/contact.png)
+![Contact](public/img/readme/contact.png)
